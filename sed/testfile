@@ -1,0 +1,13 @@
+REPOSITORY=Bash-tips-and-tricks
+DESCRIPTION=Template bash command examples to use in scripts
+
+Test examples:
+
+hello world, hello universe.
+hello world.
+
+plant trees
+planttrees
+
+github
+classroom is cool
