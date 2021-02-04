@@ -24,7 +24,8 @@ This readme.md lists the information about `sed` used in the bash script files o
 # References  
 - https://linux.die.net/man/1/sed  
 - https://stackoverflow.com/a/18342726/14225230  
-- https://www.geeksforgeeks.org/sed-command-in-linux-unix-with-examples/#:~:text=SED%20command%20in%20UNIX%20is,or%20for%20find%20and%20replace.
+- https://www.geeksforgeeks.org/sed-command-in-linux-unix-with-examples/#:~:text=SED%20command%20in%20UNIX%20is,or%20for%20find%20and%20replace.  
+- http://sed.sourceforge.net/local/docs/An_introduction_to_sed.html
 
 
 
